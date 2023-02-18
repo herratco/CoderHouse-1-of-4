@@ -11,4 +11,4 @@ Menú, imagen clickeable (con link a la página de origen), Texto explicativo, b
 
 TODAS las páginas son responsive
 
-¡Feliz semana!# CoderHouse
+¡Feliz semana!#
