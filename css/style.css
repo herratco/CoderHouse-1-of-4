@@ -1,0 +1,26 @@
+.font-style {
+    font-weight:2;
+}
+
+.font_color {
+    color:black;
+}
+
+.margin_form {
+    margin-left: 25px;
+}
+
+.form_height {
+    grid-auto-rows: 3;
+}
+
+.text-align {
+    text-align: justify;
+}
+
+.bottom_menu {
+    display:flex;
+    flex-direction: row;
+    list-style-type:none;
+    justify-content: space-around;
+}
