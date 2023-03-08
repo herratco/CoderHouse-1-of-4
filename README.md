@@ -1,16 +1,5 @@
-Hola profesor, espero que esté bien. Le presento mi proyecto, originalmente lo hice en
-HTML y CSS clásicos, pero viendo las ventajas cambié a Bootstrap. Todas las páginas son
-responsive. La página de index.html (HOME) presenta la siguiente estructura: 
-CV, Menú, imagen no-clickeable, formulario, footer con enlaces sociales,
-lleva a 7 páginas con la siguiente estructura:
-CV, 6 páginas Bootstrap distribuidas con la siguiente estructura:
-Menú, imagen clickeable (con link a una página melliza), formulario, footer con enlaces sociales;
-CV, 6 páginas Bootstrap distribuidas con la siguiente estructura:
-Menú, imagen clickeable (con link a la página de origen), Texto explicativo, botón de regreso a la página de origen)
-1 Página de CV en formato JPG con link a la página HOME (index.html).
-Con respecto a los archivos go que se encuentran en los directorios, crearlos fue
-la única forma que encontré para crear directorios.
+Buenas noches profesor, espero que se encuentre bien. Le presento mi proyecto, originalmente lo hice en HTML y CSS clásicos, pero viendo las ventajas cambié a Bootstrap. Todas las páginas son responsive. La página de index.html (HOME) presenta la siguiente estructura: CV, Menú, imagen no-clickeable, formulario, se añadió un footer con enlaces sociales bootstrap, lleva a 7 páginas con la siguiente estructura: CV, 6 páginas Bootstrap distribuidas con la siguiente estructura: Menú, imagen clickeable (con link a una página melliza), formulario, footer con enlaces sociales; CV, 6 páginas Bootstrap distribuidas con la siguiente estructura: Menú, imagen clickeable (con link a la página de origen), Texto explicativo, botón de regreso a la página de origen) 1 Página de CV en formato JPG con link a la página HOME (index.html). Se insertó mixinspara aplicarse en el último reglón de código HTML. Se insertó un directorio scss con scss divididos que se importan desde el archivo style.scss. Se insertaron 5 variables en el scss variables.Se insertaron los reglones de descripción de página y palabras clave, Las imágenes fuera de la de index son compatibles con el color azul, así que se decidió dejar el color azul. Se insertó un link de whatsapp funcional, se insertó el faviicon Con respecto a los archivos go que se encuentran en los directorios, crearlos fue la única forma que encontré para crear directorios.
 
 TODAS las páginas son responsive
 
-¡Feliz semana!
+¡Feliz semana!gi
