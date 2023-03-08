@@ -1,7 +1,8 @@
-@mixin sizes($width, $height) {
-    height: $height;
-    width: $width;
- }
- .box {
-    @include sizes(100px, 100px);
- }
+@mixin flex-row-center{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.box {
+   @include flex-row-center;
+}

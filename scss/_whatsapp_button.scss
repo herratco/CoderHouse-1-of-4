@@ -1,5 +1,4 @@
-$color_1: #fff;
-$color_2: black;
+
 
 /* WhatsApp Icon */
 .whatsapp {
@@ -9,11 +8,11 @@ $color_2: black;
 	z-index: 9999;
 	width: 60px;
 	height: 60px;
-	background: #25d366;
+	background: $color_3;
 	color: $color_1;
 	border-radius: 50px;
-	text-align: center;
+	text-align: $alignment;
 	font-size: 30px;
-	box-shadow: 2px 2px 3px #999;
+	box-shadow: 2px 2px 3px $color_4;
 	transition: 0.5s;
 }
