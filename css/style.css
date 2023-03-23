@@ -46,7 +46,7 @@
 }
 
 img {
-  padding: 0 5% 0 5%;
+  padding: 1% 5% 1% 5%;
   transition: all 0.8% ease;
 }
 img:hover {
@@ -103,6 +103,7 @@ img:hover {
   height: 90%;
   padding-left: 5%;
   padding-right: 5%;
+  
 }
 
 @media (min-width: 760px) {
